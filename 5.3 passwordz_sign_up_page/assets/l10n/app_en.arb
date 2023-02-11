@@ -1,0 +1,30 @@
+{
+  "app_name": "Passwordz",
+
+  "action_ok": "Ok",
+  "action_sign_in": "Sign In",
+  "action_sign_up": "Sign Up",
+
+  "dialog_wrong_sign_in_title": "Sign in error",
+  "dialog_wrong_sign_in_message": "Error while signing in, please check your credentials and try again.",
+  "dialog_wrong_sign_up_title": "Sign up error",
+  "dialog_wrong_sign_up_message": "Error while signing up, please check the data and try again.",
+  "dialog_success_sign_up_title": "Sign up succeeded",
+  "dialog_success_sign_up_message": "Your account has been created. Click ok to navigate back and perform the sign in.",
+
+  "hint_email": "Email",
+  "hint_name": "Name",
+  "hint_password": "Password",
+  "hint_password_confirm": "Confirm password",
+
+  "label_no_account": "Don't you have an account? ",
+  "label_sail_with_us_title": "Sail with Us ⛵",
+  "label_sail_with_us_caption": "You don't have an account? Never mind, let's create it before you can start saving accounts.",
+  "label_welcome_back_title": "Welcome back \uD83D\uDc4B",
+  "label_welcome_back_caption": "We're happy to see you again. To use your keychain you should sign in first.",
+
+  "validation_invalid_email": "Invalid email",
+  "validation_name_too_short": "Name too short",
+  "validation_password_too_short": "Password too short",
+  "validation_password_do_not_match": "Passwords do not match"
+}

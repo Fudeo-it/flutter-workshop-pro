@@ -1,0 +1,29 @@
+name: passwordz
+version: 1.0.0
+summary: Password Manager
+description: A new password manager app
+icon: snap/gui/passwordz.png
+
+confinement: strict
+base: core18
+grade: stable
+
+apps:
+  passwordz:
+    command: passwordz
+    extensions:
+      - flutter-stable
+    plugs:
+      - network
+
+parts:
+  passwordz:
+    source: .
+    plugin: flutter
+    flutter-target: lib/main.dart
+    build-packages:
+      - libsecret-1-dev
+      - libjsoncpp-dev
+    stage-packages:
+      - libsecret-1-dev
+      - libjsoncpp-dev

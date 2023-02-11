@@ -1,0 +1,30 @@
+{
+  "app_name": "Passwordz",
+
+  "action_ok": "Ok",
+  "action_sign_in": "Accedi",
+  "action_sign_up": "Registrati",
+
+  "dialog_wrong_sign_in_title": "Problemi con l'accesso",
+  "dialog_wrong_sign_in_message": "Errore nel login, verificare che le credenziali inserite siano corrette e riprovare.",
+  "dialog_wrong_sign_up_title": "Registrazione fallita",
+  "dialog_wrong_sign_up_message": "Errore durante la registrazione, verificare i dati inseriti e riprovare.",
+  "dialog_success_sign_up_title": "Registrazione completata",
+  "dialog_success_sign_up_message": "Il tuo account è stato creato. Clicca su ok per tornare indietro ed eseguire il login.",
+
+  "hint_email": "Email",
+  "hint_name": "Nome",
+  "hint_password": "Password",
+  "hint_password_confirm": "Conferma password",
+
+  "label_no_account": "Non hai ancora un account? ",
+  "label_sail_with_us_title": "Salpa a bordo ⛵",
+  "label_sail_with_us_caption": "Non hai ancora un account? Non ti preoccupare, creiamone uno prima di poter memorizzare le password.",
+  "label_welcome_back_title": "Bentornato \uD83D\uDc4B",
+  "label_welcome_back_caption": "Siamo felici di rivederti. Per poter usare il tuo portachiavi devi prima eseguire l'accesso.",
+
+  "validation_invalid_email": "Email non valida",
+  "validation_name_too_short": "Nome troppo corto",
+  "validation_password_too_short": "Password troppo corta",
+  "validation_password_do_not_match": "Le password non corrispondono"
+}

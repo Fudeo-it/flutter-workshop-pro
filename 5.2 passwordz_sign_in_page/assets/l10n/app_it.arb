@@ -1,0 +1,21 @@
+{
+  "app_name": "Passwordz",
+
+  "action_ok": "Ok",
+  "action_sign_in": "Accedi",
+  "action_sign_up": "Registrati",
+
+  "dialog_wrong_sign_in_title": "Problemi con l'accesso",
+  "dialog_wrong_sign_in_message": "Errore nel login, verificare che le credenziali inserite siano corrette e riprovare.",
+
+  "hint_email": "Email",
+  "hint_password": "Password",
+
+  "label_no_account": "Non hai ancora un account? ",
+  "label_welcome_back_title": "Bentornato \uD83D\uDc4B",
+  "label_welcome_back_caption": "Siamo felici di rivederti. Per poter usare il tuo portachiavi devi prima eseguire l'accesso.",
+
+  "validation_invalid_email": "Email non valida",
+  "validation_password_too_short": "Password troppo corta"
+
+}

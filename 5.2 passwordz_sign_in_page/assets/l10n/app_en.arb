@@ -1,0 +1,20 @@
+{
+  "app_name": "Passwordz",
+
+  "action_ok": "Ok",
+  "action_sign_in": "Sign In",
+  "action_sign_up": "Sign Up",
+
+  "dialog_wrong_sign_in_title": "Sign in error",
+  "dialog_wrong_sign_in_message": "Error while signing in, please check your credentials and try again.",
+
+  "hint_email": "Email",
+  "hint_password": "Password",
+
+  "label_no_account": "Don't you have an account? ",
+  "label_welcome_back_title": "Welcome back \uD83D\uDc4B",
+  "label_welcome_back_caption": "We're happy to see you again. To use your keychain yyou should sign in first.",
+
+  "validation_invalid_email": "Invalid email",
+  "validation_password_too_short": "Password too short"
+}
